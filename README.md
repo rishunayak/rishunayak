@@ -1,6 +1,6 @@
 
 <img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" width=200px  />
-<h1> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"/> 👋 I'am Rishu Kumar Nayak </h1>
+<h1> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width=10%/> 👋 I'am Rishu Kumar Nayak </h1>
 <!--
 **rishunayak/rishunayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
