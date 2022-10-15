@@ -10,7 +10,7 @@
 
 <h3 align="center">A passionate Full Stack Developer is in making</h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -45,7 +45,6 @@
 <br />
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/rishunayak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishu-jha-ba4325214" height="30" width="40" /></a>
 </p>
 <br />
@@ -93,11 +92,7 @@
 </div>
 
 <br/>
-<!-- <br/>
-<br/>
-<img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" align="center">
-<br />
-<br /> -->
+
 <br/>
 
 
