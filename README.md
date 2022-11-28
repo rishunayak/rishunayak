@@ -43,10 +43,24 @@
 
 <h2 align="center">📱 Connect with me</h2>
 <br />
+<div align="center">
 
-<p align="center">
 <a href="https://www.linkedin.com/in/rishunayak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishu-jha-ba4325214" height="30" width="40" /></a>
-</p>
+
+
+<a title="rishunayak22@gmail.com" href="mailto:rishunayak22@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ali_mujtaba"  />
+    </a>
+
+
+
+ <a  href="https://rishunayak.github.io/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="ali_mujtaba" />
+    </a>
+
+  
+</div>
+
 <br />
 
 <hr />
