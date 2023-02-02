@@ -21,9 +21,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently pursuing Full Stack Web Development
-
-- 🌱 I’m currently learning **Backend **
+- 🔭 I’m Full Stack Web Development
 
 - 📄 Check out my [Resume](https://drive.google.com/file/d/18dlYwEXqLX5ZhMUF_92o--Ac1ChcHjNA/view?usp=sharing)
 
