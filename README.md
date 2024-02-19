@@ -17,6 +17,8 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Rishu Kumar Nayak; I am a Full-stack%20web%20developer 👨🏻‍💻; interested in Sports 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
+### Experienced MERN developer adept at building robust web applications, proficient in MongoDB, Express.js, React.js, and Node.js. Skilled in frontend design, backend implementation, and deployment. Strong problem-solving abilities, collaborative mindset, and a passion for delivering high-quality code
+
 
 
 ## 🙋‍♂️ About Me
