@@ -9,7 +9,7 @@
 
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-
+  
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
